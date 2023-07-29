@@ -3,8 +3,7 @@ SolidWorks 2020 used throughout the semester and designed and created too many r
 
 <img src='Body_side.png' width=800>
 <img src='Body_isom.png' width=800>
-<img src='Tyre.png' width=400>
-<img src='Flower_solar.png' width=400>
+<img src='Tyre.png' width=400> <img src='Flower_solar.png' width=400>
 
 
 Our semester project was like an only BLUE GEM in a group of black opals. 
